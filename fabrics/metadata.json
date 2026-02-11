@@ -1,0 +1,92 @@
+[
+    {
+        "id": "cotton",
+        "name": "Cotton",
+        "description": "A vibrant Cotton fabric perfect for dresses and blouses.",
+        "designs": [
+            {
+                "id": "rose_garden",
+                "name": "Rose Garden",
+                "description": "If required",
+                "colors": [
+                    {
+                        "name": "Red",
+                        "description": "If required",
+                        "image": "red.jpg",
+                        "path": "photos/fabrics/rose_garden/red.jpg"
+                    },
+                    {
+                        "name": "Green",
+                        "description": "If required",
+                        "image": "green.jpg",
+                        "path": "photos/fabrics/rose_garden/green.jpg"
+                    }
+                ]
+            },
+            {
+                "id": "tropical_bloom",
+                "name": "Tropical Bloom",
+                "description": "If required",
+                "colors": [
+                    {
+                        "name": "Yellow",
+                        "description": "If required",
+                        "image": "yellow.jpg",
+                        "path": "photos/fabrics/tropical_bloom/yellow.jpg"
+                    },
+                    {
+                        "name": "Blue",
+                        "description": "If required",
+                        "image": "blue.jpg",
+                        "path": "photos/fabrics/tropical_bloom/blue.jpg"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "polyester",
+        "name": "Polyester",
+        "description": "Durable, lightweight fabric widely used for T-shirts and sportswear.",
+        "designs": [
+            {
+                "id": "sports_mesh",
+                "name": "Sports Mesh",
+                "description": "Breathable fabric ideal for athletic T-shirts.",
+                "colors": [
+                    {
+                        "name": "Black",
+                        "description": "If required",
+                        "image": "black.jpg",
+                        "path": "photos/fabrics/sports_mesh/black.jpg"
+                    },
+                    {
+                        "name": "White",
+                        "description": "If required",
+                        "image": "white.jpg",
+                        "path": "photos/fabrics/sports_mesh/white.jpg"
+                    }
+                ]
+            },
+            {
+                "id": "active_dry",
+                "name": "Active Dry",
+                "description": "Moisture-wicking polyester fabric for performance wear.",
+                "colors": [
+                    {
+                        "name": "Grey",
+                        "description": "If required",
+                        "image": "grey.jpg",
+                        "path": "photos/fabrics/active_dry/grey.jpg"
+                    },
+                    {
+                        "name": "Navy",
+                        "description": "If required",
+                        "image": "navy.jpg",
+                        "path": "photos/fabrics/active_dry/navy.jpg"
+                    }
+                ]
+            }
+        ]
+    }
+]
