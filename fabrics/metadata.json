@@ -3,6 +3,7 @@
         "id": "cotton",
         "name": "Cotton",
         "description": "A vibrant Cotton fabric perfect for Tshirt.",
+        "preview_image": "cotton.jpg",
         "designs": [
             {
                 "id": "rose_garden",
@@ -48,6 +49,7 @@
         "id": "polyester",
         "name": "Polyester",
         "description": "Durable, lightweight fabric widely used for T-shirts and sportswear.",
+        "preview_image": "polyester.jpg",
         "designs": [
             {
                 "id": "sports_mesh",
