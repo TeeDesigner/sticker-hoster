@@ -11,12 +11,14 @@
                 "description": "If required",
                 "colors": [
                     {
+                        "id": "red",
                         "name": "Red",
                         "description": "If required",
                         "image": "red.jpg",
                         "path": "photos/fabrics/rose_garden/red.jpg"
                     },
                     {
+                        "id": "green",
                         "name": "Green",
                         "description": "If required",
                         "image": "green.jpg",
@@ -30,12 +32,14 @@
                 "description": "If required",
                 "colors": [
                     {
+                        "id": "yellow",
                         "name": "Yellow",
                         "description": "If required",
                         "image": "yellow.jpg",
                         "path": "photos/fabrics/tropical_bloom/yellow.jpg"
                     },
                     {
+                        "id": "blue",
                         "name": "Blue",
                         "description": "If required",
                         "image": "blue.jpg",
@@ -57,12 +61,14 @@
                 "description": "Breathable fabric ideal for athletic T-shirts.",
                 "colors": [
                     {
+                        "id": "black",
                         "name": "Black",
                         "description": "If required",
                         "image": "black.jpg",
                         "path": "photos/fabrics/sports_mesh/black.jpg"
                     },
                     {
+                        "id": "white",
                         "name": "White",
                         "description": "If required",
                         "image": "white.jpg",
@@ -76,12 +82,14 @@
                 "description": "Moisture-wicking polyester fabric for performance wear.",
                 "colors": [
                     {
+                        "id": "grey",
                         "name": "Grey",
                         "description": "If required",
                         "image": "grey.jpg",
                         "path": "photos/fabrics/active_dry/grey.jpg"
                     },
                     {
+                        "id": "navy",
                         "name": "Navy",
                         "description": "If required",
                         "image": "navy.jpg",
