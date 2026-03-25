@@ -14,25 +14,25 @@
                         "name": "Pink",
                         "description": "If required",
                         "image": "pink.jpg",
-                        "path": "photos/fabrics/rose_garden/pink.jpg"
+                        "path": "photos/fabrics/cotton/rose_garden/pink.jpg"
                     },
                     {
                         "name": "Green",
                         "description": "If required",
                         "image": "green.jpg",
-                        "path": "photos/fabrics/rose_garden/green.jpg"
+                        "path": "photos/fabrics/cotton/rose_garden/green.jpg"
                     },
                     {
                         "name": "Blue",
                         "description": "If required",
                         "image": "blue.jpg",
-                        "path": "photos/fabrics/rose_garden/blue.jpg"
+                        "path": "photos/fabrics/cotton/rose_garden/blue.jpg"
                     },
                     {
                         "name": "Yellow",
                         "description": "If required",
                         "image": "yellow.jpg",
-                        "path": "photos/fabrics/rose_garden/yellow.jpg"
+                        "path": "photos/fabrics/cotton/rose_garden/yellow.jpg"
                     }
                 ]
             }
