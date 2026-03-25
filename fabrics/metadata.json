@@ -2,8 +2,7 @@
     {
         "id": "cotton",
         "name": "Cotton",
-        "description": "A vibrant Cotton fabric perfect for Tshirt.",
-        "preview_image": "cotton.jpg",
+        "description": "A vibrant Cotton fabric perfect for dresses and blouses.",
         "designs": [
             {
                 "id": "rose_garden",
@@ -11,92 +10,29 @@
                 "description": "If required",
                 "colors": [
                     {
-                        "id": "red",
-                        "name": "Red",
+                        "name": "Pink",
                         "description": "If required",
-                        "image": "red.jpg",
-                        "path": "photos/fabrics/rose_garden/red.jpg"
+                        "image": "pink.jpg",
+                        "path": "photos/fabrics/rose_garden/pink.jpg"
                     },
                     {
-                        "id": "green",
                         "name": "Green",
                         "description": "If required",
                         "image": "green.jpg",
                         "path": "photos/fabrics/rose_garden/green.jpg"
-                    }
-                ]
-            },
-            {
-                "id": "tropical_bloom",
-                "name": "Tropical Bloom",
-                "description": "If required",
-                "colors": [
-                    {
-                        "id": "yellow",
-                        "name": "Yellow",
-                        "description": "If required",
-                        "image": "yellow.jpg",
-                        "path": "photos/fabrics/tropical_bloom/yellow.jpg"
                     },
                     {
-                        "id": "blue",
                         "name": "Blue",
                         "description": "If required",
                         "image": "blue.jpg",
-                        "path": "photos/fabrics/tropical_bloom/blue.jpg"
+                        "path": "photos/fabrics/rose_garden/blue.jpg"
+                    },
+                    {
+                        "name": "Yellow",
+                        "description": "If required",
+                        "image": "yellow.jpg",
+                        "path": "photos/fabrics/rose_garden/yellow.jpg"
                     }
                 ]
             }
-        ]
-    },
-    {
-        "id": "polyester",
-        "name": "Polyester",
-        "description": "Durable, lightweight fabric widely used for T-shirts and sportswear.",
-        "preview_image": "polyester.jpg",
-        "designs": [
-            {
-                "id": "sports_mesh",
-                "name": "Sports Mesh",
-                "description": "Breathable fabric ideal for athletic T-shirts.",
-                "colors": [
-                    {
-                        "id": "black",
-                        "name": "Black",
-                        "description": "If required",
-                        "image": "black.jpg",
-                        "path": "photos/fabrics/sports_mesh/black.jpg"
-                    },
-                    {
-                        "id": "white",
-                        "name": "White",
-                        "description": "If required",
-                        "image": "white.jpg",
-                        "path": "photos/fabrics/sports_mesh/white.jpg"
-                    }
-                ]
-            },
-            {
-                "id": "active_dry",
-                "name": "Active Dry",
-                "description": "Moisture-wicking polyester fabric for performance wear.",
-                "colors": [
-                    {
-                        "id": "grey",
-                        "name": "Grey",
-                        "description": "If required",
-                        "image": "grey.jpg",
-                        "path": "photos/fabrics/active_dry/grey.jpg"
-                    },
-                    {
-                        "id": "navy",
-                        "name": "Navy",
-                        "description": "If required",
-                        "image": "navy.jpg",
-                        "path": "photos/fabrics/active_dry/navy.jpg"
-                    }
-                ]
-            }
-        ]
-    }
 ]
