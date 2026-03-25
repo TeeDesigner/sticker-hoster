@@ -3,6 +3,7 @@
         "id": "cotton",
         "name": "Cotton",
         "description": "A vibrant Cotton fabric perfect for dresses and blouses.",
+        "preview_image": "cotton.jpg",
         "designs": [
             {
                 "id": "rose_garden",
